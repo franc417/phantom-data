@@ -4,15 +4,15 @@
   "device_model": "25128RN17A",
   "device_brand": "Redmi",
   "android_ver": "16",
-  "latitude": "0.02778555",
-  "longitude": "36.344015150000004",
-  "accuracy": "5.859374523162842",
+  "latitude": "0.02773761666666667",
+  "longitude": "36.34413366666667",
+  "accuracy": "1.3140509128570557",
   "provider": "gps",
-  "timestamp": "2026-06-06 22:37:13",
-  "battery_pct": "41",
-  "battery_status": "DISCHARGING",
+  "timestamp": "2026-06-06 22:50:37",
+  "battery_pct": "45",
+  "battery_status": "CHARGING",
   "wifi_ssid": "Kibui",
   "wifi_ip": "192.168.100.8",
-  "wifi_rssi": "-63",
-  "updated_utc": "2026-06-06T19:37:19Z"
+  "wifi_rssi": "-65",
+  "updated_utc": "2026-06-06T19:50:45Z"
 }
