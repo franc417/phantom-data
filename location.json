@@ -1,8 +1,18 @@
 {
-  "device": "Redmi-MKZ",
-  "latitude": "0.027778066666666667",
-  "longitude": "36.343996133333334",
-  "accuracy": "1.2900651693344116",
-  "timestamp": "2026-06-06 22:30:55",
-  "updated_utc": "2026-06-06T19:31:03Z"
+  "device_id": "PHANTOM-01BA4719C80B",
+  "device_name": "Redmi-MKZ",
+  "device_model": "25128RN17A",
+  "device_brand": "Redmi",
+  "android_ver": "16",
+  "latitude": "0.027786750000000002",
+  "longitude": "36.34401128333333",
+  "accuracy": "1.371090054512024",
+  "provider": "gps",
+  "timestamp": "2026-06-06 22:34:43",
+  "battery_pct": "42",
+  "battery_status": "DISCHARGING",
+  "wifi_ssid": "Kibui",
+  "wifi_ip": "192.168.100.8",
+  "wifi_rssi": "-64",
+  "updated_utc": "2026-06-06T19:34:49Z"
 }
